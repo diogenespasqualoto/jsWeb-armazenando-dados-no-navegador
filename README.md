@@ -12,7 +12,7 @@
     - Armazenando dados na WEB
 
     [✔️] O armazenamento na WEB
-    [] Inserindo dados no localStorage
+    [✔️] Inserindo dados no localStorage
     [] Múltiplos itens no localStorage
 
 ## Módulo 3
