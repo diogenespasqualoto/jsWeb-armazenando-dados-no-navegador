@@ -11,7 +11,7 @@
 
     - Armazenando dados na WEB
 
-    [] O armazenamento na WEB
+    [✔️] O armazenamento na WEB
     [] Inserindo dados no localStorage
     [] Múltiplos itens no localStorage
 
