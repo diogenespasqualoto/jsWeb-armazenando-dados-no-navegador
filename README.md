@@ -4,7 +4,7 @@
 
     - Manipulando dados
 
-    [] Capturando os dados da tela
+    [✔️] Capturando os dados da tela
     [] Criando as validações
 
 ## Módulo 2
