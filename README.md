@@ -34,4 +34,4 @@
     - Removendo um item
 
     [✔️] Removendo um item da mochila
-    [] Removendo um item do localStorage
+    [✔️] Removendo um item do localStorage
