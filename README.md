@@ -20,7 +20,7 @@
     - interagindo com dados na WEB
 
     [✔️] Consultando dados do localStorage
-    [] Atualizar página ao cadastrar item
+    [✔️] Atualizar página ao cadastrar item
 
 ## Módulo 4
 
