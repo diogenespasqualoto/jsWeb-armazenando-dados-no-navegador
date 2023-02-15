@@ -27,7 +27,7 @@
     - Atualizando um item
 
     [✔️] Modificar a quantidade de um item
-    [] Atualizando um item do localStorage
+    [✔️] Atualizando um item do localStorage
 
 ## Módulo 5
 
