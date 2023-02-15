@@ -13,7 +13,7 @@
 
     [✔️] O armazenamento na WEB
     [✔️] Inserindo dados no localStorage
-    [] Múltiplos itens no localStorage
+    [✔️] Múltiplos itens no localStorage
 
 ## Módulo 3
 
@@ -33,5 +33,5 @@
 
     - Removendo um item
 
-    [] Removendo um item da mochila 
+    [] Removendo um item da mochila
     [] Removendo um item do localStorage
